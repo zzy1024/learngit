@@ -1,11 +1,3 @@
-learn git test，learn git version control system.
+this is a readme.txt
 
-增加版本回退说明
-
-Git is free software
-
-my name is zhuzhongya
-
-Git has a mutable index called stage.
-
-git尝试改变，第二次改变
+read more move to other.
