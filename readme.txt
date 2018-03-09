@@ -8,4 +8,4 @@ my name is zhuzhongya
 
 Git has a mutable index called stage.
 
-git尝试改变
+git尝试改变，第二次改变
