@@ -6,3 +6,4 @@ Git is free software
 
 my name is zhuzhongya
 
+Git has a mutable index called stage.
