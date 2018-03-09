@@ -1,4 +1,4 @@
-learn git test
+learn git test，learn git version control system.
 
 Git is free software
 
